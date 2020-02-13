@@ -1,7 +1,7 @@
 ![COVER]()
 <h3>ElegantNotch for Asus (Zenfone) Max Pro M2</h3>
 <h5>(X01BD)</h5>
-<h5>Latest version: 2.0 (22/09/2019)</h5>
+<h5>Latest version: 2.1 (13/02/2020)</h5>
 </br>
 
 <code>Author: [lscambo13](https://forum.xda-developers.com/member.php?u=5544960) @ xda-developers</code></br>
@@ -24,14 +24,12 @@ Requires latest Magisk installed!
 
 <strong>Installation:</strong>
 
-1. Install the module via Magisk or TWRP
-<strike>2. Go to Developer options > Tap on Device cutout
-3. Change the setting to ElegantNotch-X01BD</strike>
-4. Enjoy those 5exy curves :p
+1. Install 
+2. Reboot & Enjoy those 5exy curves :p
 
 Compatibility with every rom not guranteed but should be working 
-on near AOSP roms. Personally tested only on Havoc (9) and Pixel 
-Experience (10).
+on near AOSP roms. Personally tested only on Havoc (9), Pixel 
+Experience (10), Arrow (10) and Stock Pie (9).
 
 When reporting any bug or issue, make sure to 
 mention:
@@ -40,6 +38,15 @@ mention:
 	b. Your Rom details
 
 ------------------------------------------------------------</br>
+
+<strong>Update: v2.1</strong>
+ 
+Changelog:	
+
+	-Public release
+
+------------------------------------------------------------</br>
+
 
 <strong>Update: v2.0</strong>
  
